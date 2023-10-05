@@ -1,0 +1,14 @@
+C:\Users\Micheal\Day11Interface\Example7\bin\Debug\net7.0\Example7.exe
+C:\Users\Micheal\Day11Interface\Example7\bin\Debug\net7.0\Example7.deps.json
+C:\Users\Micheal\Day11Interface\Example7\bin\Debug\net7.0\Example7.runtimeconfig.json
+C:\Users\Micheal\Day11Interface\Example7\bin\Debug\net7.0\Example7.dll
+C:\Users\Micheal\Day11Interface\Example7\bin\Debug\net7.0\Example7.pdb
+C:\Users\Micheal\Day11Interface\Example7\obj\Debug\net7.0\Example7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micheal\Day11Interface\Example7\obj\Debug\net7.0\Example7.AssemblyInfoInputs.cache
+C:\Users\Micheal\Day11Interface\Example7\obj\Debug\net7.0\Example7.AssemblyInfo.cs
+C:\Users\Micheal\Day11Interface\Example7\obj\Debug\net7.0\Example7.csproj.CoreCompileInputs.cache
+C:\Users\Micheal\Day11Interface\Example7\obj\Debug\net7.0\Example7.dll
+C:\Users\Micheal\Day11Interface\Example7\obj\Debug\net7.0\refint\Example7.dll
+C:\Users\Micheal\Day11Interface\Example7\obj\Debug\net7.0\Example7.pdb
+C:\Users\Micheal\Day11Interface\Example7\obj\Debug\net7.0\Example7.genruntimeconfig.cache
+C:\Users\Micheal\Day11Interface\Example7\obj\Debug\net7.0\ref\Example7.dll

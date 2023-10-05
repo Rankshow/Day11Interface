@@ -1,0 +1,4 @@
+C:\Users\Micheal\Day11Interface\Example8\obj\Debug\net7.0\Example8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micheal\Day11Interface\Example8\obj\Debug\net7.0\Example8.AssemblyInfoInputs.cache
+C:\Users\Micheal\Day11Interface\Example8\obj\Debug\net7.0\Example8.AssemblyInfo.cs
+C:\Users\Micheal\Day11Interface\Example8\obj\Debug\net7.0\Example8.csproj.CoreCompileInputs.cache
